@@ -1,0 +1,22 @@
+body {
+    background-color: #c6a4f9;
+    color: rgb(92, 76, 212);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+}
+
+h1 {
+    color: #4856c4;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.task-type {
+    font-weight: bold;
+    color: #7259b9;
+}
+
+.btn-info {
+    color: rgb(181, 160, 191);
+    background: #5d69bd;
+}
